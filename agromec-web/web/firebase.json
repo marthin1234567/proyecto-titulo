@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "301951593100",
+    "project_id": "agromec-2b514",
+    "storage_bucket": "agromec-2b514.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301951593100:android:1b41a1d8c70f253f13a9a9",
+        "android_client_info": {
+          "package_name": "com.agromec.smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301951593100-2knd36as5p1clno5tbam63utroqnbj0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agromec.smart",
+            "certificate_hash": "f8e838b8db54cc467b7e242fee092d2a9f8418e5"
+          }
+        },
+        {
+          "client_id": "301951593100-fhvmr3rqd7hb3oq5a856am4gc20kt7vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agromec.smart",
+            "certificate_hash": "72915c2288d1914b5436e840d93e24bc87f27927"
+          }
+        },
+        {
+          "client_id": "301951593100-s7ahd9o9ueicegtn3aalde1g3sc360pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agromec.smart",
+            "certificate_hash": "54a8ed7afa375aaa6e0ec1b311be5c842891017d"
+          }
+        },
+        {
+          "client_id": "301951593100-mncbnrosa4q3t894fgedn2q0d2l6qh91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFb-by1b_5aLjklOdpmLuKTkHjSxJrYwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301951593100-mncbnrosa4q3t894fgedn2q0d2l6qh91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
